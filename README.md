@@ -1,4 +1,4 @@
-# coding-first-time
-this is the first time i am using github.
+# first-git-repo
+this is my first github repo.
 <br>
 Author - Anany Pratap Kushwaha
